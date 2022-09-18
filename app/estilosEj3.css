@@ -1,0 +1,46 @@
+/*Acá en el css pise un poco el bootstrap para darle algo de estilo*/
+
+#barra{
+
+    margin-top: 20px;
+    margin-left: 2px;
+    margin-right: 2px;
+    border: solid;
+    border-radius: 10px;
+    background-color: coral;
+}
+
+#barra .navbar-brand{
+
+    font-size: 1.5em;
+    font-family: 'helvetica';
+    font-weight:700;
+}
+
+.contiene{
+
+    height: 150px;
+    display: block;
+    margin: 0 20px 0 20px;
+
+}
+
+.container{
+
+    
+    background-color: lightgray;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.container div{
+    
+    border: solid;
+    border-color: black;
+    background-color: grey;
+}
+
+.fotos{
+
+    margin: 10px 100px 30px 100px;
+}
