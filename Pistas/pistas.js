@@ -1,6 +1,7 @@
-let btnAgregar = document.querySelector("#btnAgregar");
+
+let btnAgregar = document.getElementById("btnAgregar");
 btnAgregar.addEventListener("click", agregar);
-let btnDuracion = document.querySelector("#btnDuracion");
+let btnDuracion = document.getElementById("btnDuracion");
 btnDuracion.addEventListener("click", duracion);
 
 let pistas = [];
@@ -11,6 +12,7 @@ function agregar() {
     let titulo = document.querySelector('#titulo').value;
     let duracion = parseInt(document.querySelector('#duracion').value);
     let interprete = document.querySelector('#interprete').value;
+
     let renglon = {
         "identificador": identificador,
         "titulo": titulo,
