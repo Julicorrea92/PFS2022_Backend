@@ -1,0 +1,55 @@
+{
+    "Status": "OK",
+    "Audios": [
+        
+        {
+        "identificacion": 1,
+        "titulo": "Bohemian Rapshody",
+        "duracion": 420,
+        "interprete": "Queen"
+        }, 
+
+        {
+        "identificacion": 2,
+        "titulo": "Bhoemian Like You",
+        "duracion": 332,
+        "interprete": "The Dandy Warhols"
+        }, 
+        {
+        "identificacion": 3,
+        "titulo": "You Really Got Me",
+        "duracion": 134,
+        "interprete": "The Kinks"
+        }, 
+        {
+        "identificacion": 4,
+        "titulo": "Me and Bobby McGee",
+        "duracion": 215,
+        "interprete": "Janis Joplins"
+        }, 
+        {
+        "identificacion": 5,
+        "titulo": "You and Your Heart",
+        "duracion": 192,
+        "interprete": "Jack Johnson"
+        }, 
+        {
+        "identificacion": 6,
+        "titulo": "Your Woman",
+        "duracion": 256,
+        "interprete": "White Town"
+        }, 
+        {
+        "identificacion": 7,
+        "titulo": "American Woman",
+        "duracion": 264,
+        "interprete": "Lenny Kravitz"
+        }, 
+        {
+        "identificacion": 7,
+        "titulo": "American",
+        "duracion": 248,
+        "interprete": "Lana del Rey"
+        }
+    ] 
+}
